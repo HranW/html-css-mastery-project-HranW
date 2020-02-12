@@ -122,7 +122,7 @@
           animation-timing-function: ease-out;
 }
 
-@media (min-width: 350px) {
+@media (min-width: 400px) {
   .homepage-text-primary {
     font-size: 3rem;
   }
@@ -169,9 +169,9 @@
           transform: translate(-50%);
 }
 
-@media (min-width: 350px) {
+@media (min-width: 400px) {
   .cities-heading {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 }
 
@@ -205,7 +205,7 @@
           align-items: center;
 }
 
-@media (min-width: 350px) {
+@media (min-width: 400px) {
   .card-container {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -268,10 +268,10 @@
           backface-visibility: hidden;
 }
 
-@media (min-width: 350px) {
+@media (min-width: 400px) {
   .card-side {
-    height: 15rem;
-    width: 25rem;
+    height: 20rem;
+    width: 30rem;
     border-radius: 2rem;
   }
 }
@@ -315,7 +315,7 @@
           align-items: center;
 }
 
-@media (min-width: 350px) {
+@media (min-width: 400px) {
   .card-side-front {
     font-size: 2rem;
   }
